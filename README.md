@@ -35,6 +35,10 @@ There are very little features but I will implement more as time goes!
 - Setup Button
 - More to come!
 
+## TLDR
+
+I AM NOT THE CREATOR OF YTMDL NOR I AM COLABORATING WITH THE CREATOR THIS IS JUST AN ADAPTATION OF THE PROGRAM IF YOU HAVE ANY COMPLAINTS, DOUBTS, ETC YOU CAN CONTACT ME THRU EMAIL AT: [tacomastabusiness@gmail.com](mailto:tacomastabusiness@gmail.com "tacomastabusiness@gmail.com")
+
 ## Credits
 
 - [@deepjyoti30](https://github.com/deepjyoti30 "@deepjyoti30") (YTMDL MAKER)
