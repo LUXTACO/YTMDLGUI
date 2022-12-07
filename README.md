@@ -15,6 +15,7 @@ pip install colored
 ## Compatibility
 
 Should be compatible with all types of OS since it's python, but IDK I need to test it.
+
 🟢 = Yes
 🔴 = No
 🚧 = In Testing
