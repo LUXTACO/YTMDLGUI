@@ -3,6 +3,7 @@
 User-friendly adaptation of [ytmdl](https://github.com/deepjyoti30 "ytmdl") in the form of a little tkinter menu.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+<img src="./files/image.png">
 
 ## Installation
 Install the 2 libraries using the commands down below, and the just run the code with the .bat file
