@@ -37,8 +37,8 @@ There are very little features but I will implement more as time goes!
 
 ## Credits
 
-[@deepjyoti30](https://github.com/deepjyoti30 "@deepjyoti30") (YTMDL MAKER)
-[@LUXTACO](https://github.com/LUXTACO "@LUXTACO") (GUI MAKER)
+- [@deepjyoti30](https://github.com/deepjyoti30 "@deepjyoti30") (YTMDL MAKER)
+- [@LUXTACO](https://github.com/LUXTACO "@LUXTACO") (GUI MAKER)
 
 ## Licence
 
