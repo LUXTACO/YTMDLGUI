@@ -13,6 +13,7 @@ pip install colored
 <img src=".github/install.gif">
 
 ##Compatibility
+
 Should be compatible with all types of OS since it's python, but IDK I need to test it.
 🟢 = Yes
 🔴 = No
