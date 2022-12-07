@@ -6,7 +6,7 @@ User-friendly adaptation of [ytmdl](https://github.com/deepjyoti30 "ytmdl") in t
 <img src="./files/image.png">
 
 ## Installation
-Install the 2 libraries using the commands down below, and the just run the code with the .bat file
+Install the 2 libraries using the commands down below, and then just run the code with the .bat file
 
 ```python
 pip install tk
