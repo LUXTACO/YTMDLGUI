@@ -10,7 +10,7 @@ Install the 2 libraries using the commands down below
 pip install tk
 pip install colored
 ```
-<img src=".github/install.gif">
+<img src="./files/install.gif">
 
 ## Compatibility
 
