@@ -11,6 +11,7 @@ Install the 2 libraries using the commands down below, and then just run the cod
 ```python
 pip install tk
 pip install colored
+pip install ttkthemes
 ```
 <img src="./files/install.gif">
 
