@@ -6,6 +6,7 @@ from tkinter import *
 from tkinter.ttk import *
 from tkinter import messagebox as mBox
 from ttkthemes import ThemedTk
+from threading import *
 import subprocess
 import os
 import time
@@ -58,6 +59,18 @@ def sp():
 	os.system("cls")
 	title()
 
+def th():
+    t1=Thread(target=dl)
+    t1.start()
+
+def th2():
+    t2=Thread(target=exp)
+    t2.start()
+
+def th3():
+    t3=Thread(target=sp)
+    t3.start()
+
 win = ThemedTk(theme="arc")
 win.title("YTMDL HUB - [BETA]")
 win.iconbitmap("icon.ico")
@@ -76,11 +89,11 @@ sLabel = ttk.Label(win ,text = "Song to Download: " ,font=("Impact", 15))
 sLabel.place(x=50 ,y= 90)
 entry = ttk.Entry(width= 50)
 entry.place(x= 50 ,y= 130)
-action = ttk.Button(win, text="Download!", command=dl)
+action = ttk.Button(win, text="Download!", command=th)
 action.place(x= 48 ,y= 160)
-action = ttk.Button(win, text="Folder!", command=exp)
+action = ttk.Button(win, text="Folder!", command=th2)
 action.place(x= 279 ,y= 160)
-action = ttk.Button(win, text="Setup!", command=sp)
+action = ttk.Button(win, text="Setup!", command=th3)
 action.place(x= 162 ,y= 160)
 os.system("cls")
 title()
