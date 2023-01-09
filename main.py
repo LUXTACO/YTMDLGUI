@@ -30,13 +30,13 @@ def dl():
 	
 	i = entry.get()
 	os.system("ytmdl " + i)
-	os.system("start C:/Users/%USERNAME%/.cache/ytmdl")
+	os.system("start C:/Users/%USERNAME%/Music")
 
 def exp():
 	print("")
 	print("Opening...")
 	time.sleep(1)
-	os.system("start C:/Users/%USERNAME%/.cache/ytmdl")
+	os.system("start C:/Users/%USERNAME%/Music")
 	print("Opened!")
 	time.sleep(1)
 	os.system("cls")
